@@ -20,7 +20,7 @@ If you prefer to compile and run from source, follow these steps:
 2. **Link**:
 
     ```bash
-    g++ -LC:/SFML-2.5.1/lib .\timber.o -o app.exe -lmingw32 -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio -mwindows
+    g++ -LC:/SFML-2.6.1/lib .\timber.o -o app.exe -lmingw32 -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio -mwindows
     ```
 
 These commands compile and link the source code to create the executable.
